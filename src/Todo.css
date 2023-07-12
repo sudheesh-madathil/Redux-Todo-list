@@ -1,0 +1,51 @@
+.addinput{
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+}
+.d1{
+    background: #24eeae;
+    border-radius: 20px;
+
+
+}
+.ul{
+    background: #ded3d3;
+
+
+  
+
+    
+}
+.add{
+    color: #dcdaea;
+
+}
+.addbtn{
+    background-color: #5fad1f;
+border-radius: 10px;
+border-color: rgb(255, 0, 0);}
+
+.btn{
+   justify-content: space-between;
+   margin: 2px;
+   border-radius: 10px;
+
+
+
+}
+
+.text{
+    color: #2f2f32;
+    display: flex;   margin-top: 20px;
+    justify-content: center;
+    border: #e51111;
+    width: 40%;
+    height: 40%;
+    background: #cd7f96;
+    border-radius: 10px;
+}
+.editinput{
+    background: #a8eba2;
+    border-radius: 10px;
+}
